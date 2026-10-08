@@ -8,6 +8,12 @@ VugaPharm is VugaLabs Technologies' offline pharmacy management system.
 
 See the [latest release and release notes](https://github.com/vugalabs371/vugapharm-downloads/releases/latest).
 
+## Product preview
+
+![VugaPharm V2 product overview](https://raw.githubusercontent.com/vugalabs371/vugapharm-downloads/main/vugapharm-v2-overview.png)
+
+[Watch the VugaPharm V2 demo video](https://github.com/vugalabs371/vugapharm-downloads/blob/main/vugapharm-v2-overview.mp4)
+
 ## License and activation
 
 VugaPharm is proprietary software for licensed pharmacies. Downloading the installer does not grant a software license or activate the product. Redistribution, reverse engineering, decompilation, and resale are not permitted without written permission from VugaLabs Technologies.
@@ -16,7 +22,7 @@ For licensing, installation, system requirements, or support, visit [vugalabs.co
 
 ## Release integrity
 
-For VugaPharm Setup 1.0.0, GitHub reports this SHA-256 digest for the release asset:
+GitHub reports this SHA-256 digest for VugaPharm Setup 1.0.0:
 
 ```text
 5d16259a3112154c9a9dcd505bb91669ad2ee9519328bd9676f8f24f4f0a1d8f
