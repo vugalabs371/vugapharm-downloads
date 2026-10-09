@@ -4,9 +4,9 @@ VugaPharm is VugaLabs Technologies' offline pharmacy management system.
 
 ## Download
 
-[Download the latest Windows installer](https://github.com/vugalabs371/vugapharm-downloads/releases/latest/download/VugaPharm-Setup-1.0.0.exe)
+[Download VugaPharm 2 for Windows](https://github.com/vugalabs371/vugapharm-downloads/releases/latest/download/VugaPharm-Setup-2.exe)
 
-See the [latest release and release notes](https://github.com/vugalabs371/vugapharm-downloads/releases/latest).
+See the [latest release and release notes](https://github.com/vugalabs371/vugapharm-downloads/releases/latest). The release includes the customer guide.
 
 ## Product preview
 
@@ -22,8 +22,10 @@ For licensing, installation, system requirements, or support, visit [vugalabs.co
 
 ## Release integrity
 
-GitHub reports this SHA-256 digest for VugaPharm Setup 1.0.0:
+The VugaPharm Setup 2 SHA-256 digest is:
 
 ```text
-5d16259a3112154c9a9dcd505bb91669ad2ee9519328bd9676f8f24f4f0a1d8f
+7daf25c9df1e432190846971414d88e248f4a92bcbd6969ad46a62dda44521b7
 ```
+
+Build note: The supplied executable's embedded Windows file version reports `1.0.0`, although its source filename identifies it as version 2.1. The binary is unchanged; only its GitHub release asset name is `VugaPharm-Setup-2.exe`.
