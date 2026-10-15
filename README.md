@@ -2,7 +2,15 @@
 
 VugaPharm is VugaLabs Technologies' offline pharmacy management system.
 
-## Download
+## Current Windows package — 15 October 2026
+
+[Download VugaPharm for Windows](https://github.com/vugalabs371/vugapharm-downloads/releases/download/offline-2026-10-15/VugaPharm-Windows-2026-10-15.exe) · [Customer guide (PDF)](https://github.com/vugalabs371/vugapharm-downloads/releases/download/offline-2026-10-15/VugaPharm-Customer-Guide.pdf) · [Release notes and checksums](https://github.com/vugalabs371/vugapharm-downloads/releases/tag/offline-2026-10-15)
+
+This dated package includes the latest offline retail, administration, dashboard and embedded guide changes. Its embedded version remains 1.0.0. The installer is unsigned and Windows may show an unknown publisher warning. Download size: 96,167,100 bytes. License activation is separate.
+
+Installer SHA-256: `33072541cd9a3fa3d2b5aec686f06c53fceb91f2059f7e69b6b42a9a17946bcd`.
+
+## Earlier release
 
 [Download VugaPharm 2.1.2 for Windows](https://github.com/vugalabs371/vugapharm-downloads/releases/download/v2.1.2/VugaPharm-Setup-2.1.2.exe)
 
@@ -31,3 +39,4 @@ aaf1cb46d20ccab039796c59937ac452e70f3c301c2e0ecb85bdf8ef1f24d818
 ```
 
 Build note: the installer is version 2.1.2; the application's embedded Windows file version remains `1.0.0`.
+
